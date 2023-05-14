@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682660938 source:d:\cprogramming\sstfdiskschedulingalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

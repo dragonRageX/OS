@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682776888 source:d:\cprogramming\scandiskschedulingalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682776888 source:d:\cprogramming\osprograms\scandiskschedulingalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
