@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684170706 source:d:\cprogramming\osprograms\pagereplacementalgorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+
