@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684144461 source:d:\cprogramming\osprograms\sjfprocessschedulingalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
